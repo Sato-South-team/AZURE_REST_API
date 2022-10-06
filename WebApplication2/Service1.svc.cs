@@ -18,6 +18,7 @@ namespace Azure_Rest_API
         public string GetBill(string PayId)
         {
             //return "Transaction having PayId " + PayId + " was successful";
+            //qqqqqqqqqq
             try
             {
                 string JSONresult;
